@@ -19,7 +19,7 @@
 // // → 55
 
 
-
+//teste
 
 let vetor =  (range(10,1));
    let summm = (sum(vetor));
